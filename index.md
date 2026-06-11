@@ -4,7 +4,7 @@
 layout: default
 ---
 
-## Welcome to the [Cyclus]({{ https://fuelcycle.org | absolute_url }}) Workshop
+## Welcome to the [Cyclus]({{ 'https://fuelcycle.org' | absolute_url }}) Workshop
 
 This live workshop activity is based in GitHub Codespaces. These pages give the 
 simple startup information that you might need while you engage in the 
