@@ -11,4 +11,4 @@ simple startup information that you might need while you engage in the
 workshop. Please select your workshop below. 
 
 ## Upcoming Workshops
-- [August 16, 2026 at Global 2026]({{% link _posts/2026-08-16-global.markdown %})
+- [August 16, 2026 at Global 2026]({% link _posts/2026-08-16-global.markdown %})
