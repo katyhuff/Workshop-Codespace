@@ -5,4 +5,10 @@
     - url: ## replace with your github!
       name: GitHub Page
 
+- name: Dean Krueger
+  pic: /img/empty_image.png ##get temporary placeholder image
+  description: Graduate Student at the University of Wisconsin-Madison 
+  social: 
+    - url: https://github.com/dean-krueger
+      name: GitHub Page
 ## please copy paste this block and fill in with your info
