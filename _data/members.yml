@@ -1,6 +1,9 @@
 - name: Samar Abdelkawy
   pic: abdelkawy.jpg
   description: Graduate at UIUC. Soon to join TAMU.
+  social: 
+    - url: https://github.com/SamarAbdelkawy
+    - name: GitHub Page
 
 - name: Amanda M. Bachmann
   pic: /img/Bachmann.jpg 
@@ -17,7 +20,7 @@
       name: GitHub Page
 
 - name: Meghan Krieg
-  pic: /img/meg-krieg.png ##get temporary placeholder image
+  pic: /img/meg-krieg.jpeg ##get temporary placeholder image
   description: Graduate Student at Oregon State University 
   social: 
     - url: ## replace with your github!
