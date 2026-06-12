@@ -10,7 +10,7 @@ date:   2026-08-16 13:00:00 -0500
 - Where: [Global 2026, Chicago](https://www.ans.org/meetings/global2026/calendar/event-2156/)
 - How: Please bring a laptop or tablet [^1].
 - What: [Start Here](https://github.com/cyclus/Workshop-Codespace)
-- Who: [Your Instructors]({{ site.baseurl }}/instructors }}
+- Who: [Your Instructors]({{ site.baseurl }}/instructors)
 
 ## Helpful Links
 - [Workshop-Codespace Repository](https://github.com/cyclus/Workshop-Codespace)
