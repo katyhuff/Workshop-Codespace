@@ -5,8 +5,7 @@ title:  "VS Code Tips and Tricks in Codespaces"
 
 # Tips and Tricks 
 This page has some tips and tricks for working with `VS Code` in GitHub 
-Codespaces This pages provides some tips and tricks for using `VS Code` while 
-in a GitHub Codespace. 
+Codespaces. 
 
 ## Caution
 ### Keyboard Shortcuts Overriden by Browser
