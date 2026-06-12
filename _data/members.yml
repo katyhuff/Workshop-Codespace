@@ -1,5 +1,9 @@
+- name: Samar Abdelkawy
+  pic: abdelkawy.jpg
+  description: Graduate at UIUC. Soon to join TAMU.
+
 - name: Amanda M. Bachmann
-  pic: /img/empty_image.png 
+  pic: /img/Bachmann.jpg 
   description: Nuclear Engineer at Argonne National Laboratory 
   social: 
     - url: https://github.com/abachma2
@@ -13,7 +17,7 @@
       name: GitHub Page
 
 - name: Meghan Krieg
-  pic: /img/empty_image.png ##get temporary placeholder image
+  pic: /img/meg-krieg.png ##get temporary placeholder image
   description: Graduate Student at Oregon State University 
   social: 
     - url: ## replace with your github!
@@ -34,14 +38,14 @@
       name: GitHub Page
 
 - name: Connor Welch
-  pic: /img/empty_image.png ##get temporary placeholder image
+  pic: /img/connor_pic.jpeg ##get temporary placeholder image
   description: Graduate Student at Oregon State University 
   social: 
     - url: http://github.com/ConnorWelch-OSU
       name: GitHub Page
       
 - name: Paul Wilson
-  pic: /img/empty_image.png ##get temporary placeholder image
+  pic: /img/engi101124-027.jpeg
   description: Professor at University of Wisconsin-Madison
   social: 
     - url: https://github.com/gonuke
